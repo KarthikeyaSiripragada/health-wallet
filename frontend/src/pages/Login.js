@@ -217,4 +217,6 @@ const Login = () => {
     );
 };
 
-export default Login;
+export default function Login() {
+  return <div>Login Page Placeholder</div>;
+}
