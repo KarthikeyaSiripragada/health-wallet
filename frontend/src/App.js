@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
-import Login from './pages/login';
+import Login from './pages/login.js';
 import Dashboard from './pages/Dashboard';
 import Reports from './pages/reports.js';
 import Register from './pages/Register';
